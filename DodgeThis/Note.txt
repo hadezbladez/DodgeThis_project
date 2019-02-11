@@ -1,0 +1,34 @@
+
+dodge this note
+
+this game is dodge left right and middle
+
+there many level speed max 15 frame
+1. standard mode
+	open only 1 or 2 gaps (usually 2 with pattern)
+2. special mode speed max 25 frame
+	open 2 gap (longer) with ping-pong balls
+	memory mode
+	labyrinth
+
+do we need assets?
+
+
+
+
+about gameloop and some threading fix
+there is so much things to fix here like this problem
+1. 	there is something wrong why its like lag and box kinda stepping back a moment
+	it steps back 8 pixel >> become 4 pixel because u zoom 2 time
+
+heres the web
+1. using nanosecond with times 60 will remove the floting point number (like we already did)
+2. https://stackoverflow.com/questions/18283199/java-main-game-loop
+3. http://www.java-gaming.org/index.php?topic=24220.0
+
+read some rendering mechanism here
+http://www.java-gaming.org/index.php/topic,31057
+
+
+
+
